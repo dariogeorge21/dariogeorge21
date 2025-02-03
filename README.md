@@ -7,7 +7,9 @@
 
 🌱 Student in Computer Science @SJCET PALAI <br>
 <br>
-Passionate about my career
+Passionate about my career <br>
+
+
 <br>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
@@ -24,12 +26,10 @@ Passionate about my career
 
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
+
 <br><br>
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
-** [LinkedIn](https://linkedin.com/in/dariogeorge21) ** <br>
-** [LeetCode](https://leetocde.com/in/dariogeorge21) **
 
 ## Connect with me  
 <a href="https://www.linkedin.com/in/dariogeorge21/" target="_blank">
@@ -47,6 +47,8 @@ Passionate about my career
 <a href="https://instagram.com/dariogeorge21" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
 </a>
+<br> <br>
+<img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="500" >
 
 <hr> <br>
 ### ✍️ Quote
