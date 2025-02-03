@@ -51,7 +51,8 @@ Passionate about my career <br>
 <img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="500" >
 
 <hr> <br>
-### ✍️ Quote
+
+###  ✍️ Quote
 
 “Hard Work beats talent when talent does not work hard!”  
 
