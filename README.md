@@ -28,7 +28,7 @@ Passionate about my career
 
 <br><br>
 
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="500"/>
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 ## Connect with me  
 <a href="https://www.linkedin.com/in/dariogeorge21/" target="_blank">
@@ -47,7 +47,7 @@ Passionate about my career
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
 </a>
 <br>
-<img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="500" >
+<img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="400" >
 
 <hr> 
 
