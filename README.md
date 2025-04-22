@@ -19,9 +19,10 @@ Passionate about my career
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dariogeorge21&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dariogeorge21&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariogeorge21&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dariogeorge21&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dariogeorge21&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariogeorge21&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-contributor-stats.vercel.app/api?username=dariogeorge21&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 
 
