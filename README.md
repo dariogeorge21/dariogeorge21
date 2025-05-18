@@ -49,18 +49,19 @@ Passionate about my career
 </a>
 <br>
 <img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="400" >
-<div align="center">
- <img align="center" src="https://komarev.com/ghpvc/?username=dariogeorge21&label=Profile%20views&color=0e75b6&style=flat">
- <img align="center" src="https://wakatime.com/badge/user/018de38d-052f-4c0d-a59a-99fded2a9be7.svg" />
-</div>
+
 
 <br>
 
 <p align="center"> <a href="https://github.com/dariogeorge21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariogeorge21" alt="dariogeorge21" /></a> </p>
 
 
-
 <hr> 
+
+## 📊 Weekly coding stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ###  ✍️ Quote
 
