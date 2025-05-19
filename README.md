@@ -1,64 +1,84 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** **About me**
+<br>
 
-# 👋 Hey there, I'm Dario George!
-🚀 Love Coding | 📚 Lifelong Learner
+**<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** **About me**
+--
+
+## 👋 Hi I'm Dario George!!
+
+
+🚀 Love Coding | 📚 Lifelong Learner | 💡 Building cool stuff
 
 🌱 Student in Computer Science @SJCET PALAI <br>
-<br>
-Passionate about my career
 
-<br>
+
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+<br>
 
-### 🛠 Tech Stack
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dariogeorge21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dariogeorge21)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dariogeorge21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edu.dariogeorge21@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/dariogeorge21/)
+<br><hr>
 
-![C++](https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
+# 💻 Tech Stack:
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="32" height="32" alt="Markdown"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="32" height="32" alt="LaTeX"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" height="32" alt="Windows Terminal"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="32" height="32" alt="PowerShell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="32" height="32" alt="Netlify"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" height="32" alt="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/>
+<img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" width="32" height="32" alt="Radix UI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32" height="32" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="NodeJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="NextJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32" alt="NPM"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" height="32" alt="TailwindCSS"/>
+<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="32" height="32" alt="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="32" height="32" alt="Arch Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/notion.png" width="32" height="32" alt="Notion"/>
+<img src="https://logowik.com/content/uploads/images/obsidian-app-icon1721162804.logowik.com.webp" width="32" height="32" alt="Obsidian"/>
+<img src="https://pbs.twimg.com/profile_images/1794806483219337216/9vW73mux_400x400.jpg" width="32" height="32" alt="Cursor AI"/>
+<img src="https://avatars.githubusercontent.com/u/108155640?s=280&v=4" width="32" height="32" alt="Augment AI"/>
+</p>
+
+---
+
 # 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariogeorge21&layout=donut&langs_count=8&theme=radical&)](https://github.com/dariogeorge21/dariogeorge21)
 
-![](https://github-readme-stats.vercel.app/api?username=dariogeorge21&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dariogeorge21&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariogeorge21&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-contributor-stats.vercel.app/api?username=dariogeorge21&limit=5&theme=react&combine_all_yearly_contributions=true)
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariogeorge21&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
 
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=dariogeorge21&theme=radical&hide_border=false)<br/>
 
-<br><br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dariogeorge21&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+![Dario's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dariogeorge21&theme=radical)
 
-## Connect with me  
-<a href="https://www.linkedin.com/in/dariogeorge21/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://leetcode.com/u/dariogeorge21/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-</a>
-<a href="https://twitter.com/dariogeorge21" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
-</a>
-<a href="mailto:edu.dariogeorge21@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
-</a>
-<a href="https://instagram.com/dariogeorge21" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
-</a>
-<br>
-<img src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/main/logo.jpg" width="400" >
-
-
-<br>
-
-<p align="center"> <a href="https://github.com/dariogeorge21/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dariogeorge21" alt="dariogeorge21" /></a> </p>
-
-
-<hr> 
-
-## 📊 Weekly coding stats
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dariogeorge21&theme=radical)](https://wakatime.com/@dariogeorge21)
 
 <!--START_SECTION:waka-->
 
@@ -70,15 +90,30 @@ Git Config   1 min           ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dariogeorge21&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
 
-###  ✍️ Quote
 
-“Hard Work beats talent when talent does not work hard!”  
+## 🚀 Featured Projects
 
-                                                 
+[![AI-Central](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=ai-central-station&theme=radical)](https://github.com/dariogeorge21/ai-central-station)
 
----
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=personal-portfolio&theme=radical)](https://github.com/dariogeorge21/personal-portfolio)
 
-[![](https://visitcount.itsvg.in/api?id=dariogeorge21&icon=7&color=0)](https://visitcount.itsvg.in)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=abc_2&theme=radical)](https://github.com/dariogeorge21/abc_2)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/fa7dd478-38b3-4094-85e1-91f709623ee1.svg)](https://wakatime.com/@fa7dd478-38b3-4094-85e1-91f709623ee1)
+
+
+</div>
 
