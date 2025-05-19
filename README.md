@@ -59,6 +59,7 @@ Passionate about my career
 <hr> 
 
 ## 📊 Weekly coding stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
