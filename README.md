@@ -79,6 +79,8 @@
 ![Dario's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dariogeorge21&theme=radical)
 
 [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dariogeorge21&theme=radical)](https://wakatime.com/@dariogeorge21)
+<br>
+## Weekly Stats:
 
 <!--START_SECTION:waka-->
 
