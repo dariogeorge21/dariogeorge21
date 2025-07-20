@@ -108,16 +108,36 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=abc_2&theme=radical)](https://github.com/dariogeorge21/abc_2)
 
 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+</div>
+ 
+</div>
+
+<div align="center">
+
+<div>
+<img align="center" src="https://komarev.com/ghpvc/?username=dariogeorge21&label=Profile%20views&color=0e75b6&style=flat"> 
+  
+[![wakatime](https://wakatime.com/badge/user/fa7dd478-38b3-4094-85e1-91f709623ee1.svg)](https://wakatime.com/@fa7dd478-38b3-4094-85e1-91f709623ee1) <br/>
+
+</div>
+
+<div>---------------</div>
+
+<br/>
+<a href="https://www.buymeacoffee.com/edudariogeo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" align="center" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br>
+
+
+</div>
+
+
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dariogeorge21/dariogeorge21/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/fa7dd478-38b3-4094-85e1-91f709623ee1.svg)](https://wakatime.com/@fa7dd478-38b3-4094-85e1-91f709623ee1)
-
-
-</div>
-
