@@ -122,6 +122,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 <img align="center" src="https://komarev.com/ghpvc/?username=dariogeorge21&label=Profile%20views&color=0e75b6&style=flat"> 
   
 [![wakatime](https://wakatime.com/badge/user/fa7dd478-38b3-4094-85e1-91f709623ee1.svg)](https://wakatime.com/@fa7dd478-38b3-4094-85e1-91f709623ee1) <br/>
+🔼SINCE MAY 2025🔼
 
 </div>
 
