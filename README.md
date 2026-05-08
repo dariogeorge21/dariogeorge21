@@ -71,9 +71,10 @@ I'm a passionate Computer Science student at **SJCET Palai**, driven by the inte
 
 <div align="center">
 
-[![AI-Central Station](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=ai-central-station&theme=radical&border_radius=12)](https://github.com/dariogeorge21/ai-central-station)
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=personal-portfolio&theme=radical&border_radius=12)](https://github.com/dariogeorge21/personal-portfolio)
-[![ABC_2](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=abc_2&theme=radical&border_radius=12)](https://github.com/dariogeorge21/abc_2)
+[![GitHub Account Report](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=github-account-report&theme=radical&border_radius=12)](https://github.com/dariogeorge21/github-account-report)
+[![PDF Gate](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=pdf-gate&theme=radical&border_radius=12)](https://github.com/dariogeorge21/pdf-gate)
+[![QR Code Studio](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=qr-code-studio&theme=radical&border_radius=12)](https://github.com/dariogeorge21/qr-code-studio)
+[![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=dariogeorge21&repo=portfolio-v2&theme=radical&border_radius=12)](https://github.com/dariogeorge21/portfolio-v2)
 
 </div>
 
