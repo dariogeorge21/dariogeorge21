@@ -124,11 +124,11 @@ I'm a passionate Computer Science student at **SJCET Palai**, driven by the inte
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 11 mins         ████████████████████▓░░░░   83.00 %
-Markdown     43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-SQL          18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Bash         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   8 hrs 12 mins         ████████████████████▒░░░░   81.76 %
+Markdown     43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+SQL          21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Bash         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON         15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
