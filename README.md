@@ -124,9 +124,9 @@ I'm a passionate Computer Science student at **SJCET Palai**, driven by the inte
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   40 mins               ███████████████░░░░░░░░░░   60.13 %
-C++          26 mins               ██████████░░░░░░░░░░░░░░░   39.54 %
-C            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   55 mins               ███████████████░░░░░░░░░░   60.55 %
+C++          26 mins               ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+SQL          8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 ```
 
 <!--END_SECTION:waka-->
