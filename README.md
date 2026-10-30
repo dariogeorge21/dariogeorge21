@@ -124,10 +124,10 @@ I'm a passionate Computer Science student at **SJCET Palai**, driven by the inte
 <!--START_SECTION:waka-->
 
 ```txt
-Java         1 hr 56 mins          █████████████▓░░░░░░░░░░░   54.44 %
-Markdown     52 mins               ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Python       40 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-JSON         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Java         1 hr 48 mins          ████████████▓░░░░░░░░░░░░   50.90 %
+Markdown     59 mins               ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Python       40 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+JSON         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 TypeScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
