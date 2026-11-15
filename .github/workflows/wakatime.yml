@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Update WakaTime section
         id: waka
-        continue-on-error: true
+        continue-on-error: false
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
