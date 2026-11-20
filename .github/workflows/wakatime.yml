@@ -2,7 +2,7 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: ' */6 * * *'
   workflow_dispatch:
 
 jobs:
